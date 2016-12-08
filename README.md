@@ -10,7 +10,7 @@ macmade.net
 About
 -----
 
-Old website...
+Old website: http://macmade.archives.xs-labs.com/
 
 Repository Infos
 ----------------

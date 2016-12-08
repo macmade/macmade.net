@@ -28,13 +28,13 @@
 		'dateFormatSTRF' => '%A - %d %B %Y',
 		
 		// Database to use
-		'db' => 'macmade',
+		'db' => 'c0_macmade',
 		
 		// Database to use
 		'db_host' => 'localhost',
 		
 		// Database to use
-		'db_user' => 'macmade',
+		'db_user' => 'c0_macmade',
 		
 		// Database to use
 		'db_pwd' => 'macmade',
