@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+	<title>T3FRUni2005 -Ergonomie</title>
+	<info>http://www.macmade.net.com/</info>
+	<trackList>
+		<track>
+			<annotation>01) Introduction</annotation>
+			<location>/uploads/mp3/t3fruni2005-elearning-1.mp3</location>
+			<info></info>
+			<image></image>
+		</track>
+		<track>
+			<annotation>02) Projet Nicephor[e]</annotation>
+			<location>/uploads/mp3/t3fruni2005-elearning-2.mp3</location>
+			<info></info>
+			<image></image>
+		</track>
+		<track>
+			<annotation>03) Pourquoi TYPO3</annotation>
+			<location>/uploads/mp3/t3fruni2005-elearning-3.mp3</location>
+			<info></info>
+			<image></image>
+		</track>
+		<track>
+			<annotation>04) Les Learning Objects (LOs)</annotation>
+			<location>/uploads/mp3/t3fruni2005-elearning-4.mp3</location>
+			<info></info>
+			<image></image>
+		</track>
+		<track>
+			<annotation>05) Réutilisation des LOs</annotation>
+			<location>/uploads/mp3/t3fruni2005-elearning-5.mp3</location>
+			<info></info>
+			<image></image>
+		</track>
+		<track>
+			<annotation>06) Présentation Backend / Frontend</annotation>
+			<location>/uploads/mp3/t3fruni2005-elearning-6.mp3</location>
+			<info></info>
+			<image></image>
+		</track>
+		<track>
+			<annotation>07) Histoire de la vie</annotation>
+			<location>/uploads/mp3/t3fruni2005-elearning-7.mp3</location>
+			<info></info>
+			<image></image>
+		</track>
+		<track>
+			<annotation>08) Définition du E-Learning</annotation>
+			<location>/uploads/mp3/t3fruni2005-elearning-8.mp3</location>
+			<info></info>
+			<image></image>
+		</track>
+		<track>
+			<annotation>09) Mécanisme appliqué de l'apprentissage</annotation>
+			<location>/uploads/mp3/t3fruni2005-elearning-9.mp3</location>
+			<info></info>
+			<image></image>
+		</track>
+		<track>
+			<annotation>10) Différence avec un site web normal</annotation>
+			<location>/uploads/mp3/t3fruni2005-elearning-10.mp3</location>
+			<info></info>
+			<image></image>
+		</track>
+		<track>
+			<annotation>11) Les différents types de contenus</annotation>
+			<location>/uploads/mp3/t3fruni2005-elearning-11.mp3</location>
+			<info></info>
+			<image></image>
+		</track>
+		<track>
+			<annotation>12) Former</annotation>
+			<location>/uploads/mp3/t3fruni2005-elearning-12.mp3</location>
+			<info></info>
+			<image></image>
+		</track>
+		<track>
+			<annotation>13) Entraîner</annotation>
+			<location>/uploads/mp3/t3fruni2005-elearning-13.mp3</location>
+			<info></info>
+			<image></image>
+		</track>
+		<track>
+			<annotation>14) Développer des compétences</annotation>
+			<location>/uploads/mp3/t3fruni2005-elearning-14.mp3</location>
+			<info></info>
+			<image></image>
+		</track>
+		<track>
+			<annotation>15) Besoins au niveau des contenus</annotation>
+			<location>/uploads/mp3/t3fruni2005-elearning-15.mp3</location>
+			<info></info>
+			<image></image>
+		</track>
+		<track>
+			<annotation>16) Les niveaux de conception</annotation>
+			<location>/uploads/mp3/t3fruni2005-elearning-16.mp3</location>
+			<info></info>
+			<image></image>
+		</track>
+		<track>
+			<annotation>17) Les modalités d'enseignements</annotation>
+			<location>/uploads/mp3/t3fruni2005-elearning-17.mp3</location>
+			<info></info>
+			<image></image>
+		</track>
+		<track>
+			<annotation>18) Exemple pour Nicephor[e]</annotation>
+			<location>/uploads/mp3/t3fruni2005-elearning-18.mp3</location>
+			<info></info>
+			<image></image>
+		</track>
+		<track>
+			<annotation>19) Besoins et perspectives</annotation>
+			<location>/uploads/mp3/t3fruni2005-elearning-19.mp3</location>
+			<info></info>
+			<image></image>
+		</track>
+		<track>
+			<annotation>20) Indexation et réutilisation des contenus</annotation>
+			<location>/uploads/mp3/t3fruni2005-elearning-20.mp3</location>
+			<info></info>
+			<image></image>
+		</track>
+		<track>
+			<annotation>21) Content packaging</annotation>
+			<location>/uploads/mp3/t3fruni2005-elearning-21.mp3</location>
+			<info></info>
+			<image></image>
+		</track>
+	</trackList>
+</playlist>
