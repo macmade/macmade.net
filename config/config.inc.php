@@ -34,7 +34,7 @@
 		'db_host' => 'localhost',
 		
 		// Database to use
-		'db_user' => 'c0_macmade',
+		'db_user' => 'macmade',
 		
 		// Database to use
 		'db_pwd' => 'macmade',
